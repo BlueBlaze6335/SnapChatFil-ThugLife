@@ -1,4 +1,4 @@
-# Thug life Glass,stash and cigar filter with sound using openCV and Haarcascade:
+# Thug life Glass and cigar filter with sound using openCV and Haarcascade:
 
 * This project is a trial to imitate snapchat filters with sound.
 
@@ -9,8 +9,7 @@
 * Pygame - *** To install , type pip install pygame in the terminal
 
 ### Running the program !!
-* Clone this repository ` git clone https://github.com/akshitagupta15june/Face-X.git`
-* Change Directory to ` Snapchat_Filters` then to `Thug_Life` (type cd Snapchat_Filters [enter] then type cd Thug_Life [enter])
+* Clone this repository ` git clone https://github.com/BlueBlaze6335/SnapChatFil-ThugLife.git`
 * Run code using the cmd ` python thug_life.py`
 
 ### Screenshot 
